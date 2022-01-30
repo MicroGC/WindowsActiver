@@ -7,7 +7,7 @@ int main()
     char copyright[3000]="此程序完全由lmsdscav编写。Administrator只负责修改文字。r1.4发布后，Administrator获取了此程序源码。至此，感谢lmsdscav废寝忘食地编写程序。\n";
     char changelog[3000]="新年快乐！万事如意！\n";
     //char copyright[1000]="Thank-You,lmsdscav!\n";
-    char ver[40]="Release_1.4.05";
+    char ver[40]="Release_1.5.01";
     char te[3];
     char fx="";
     int copverb=0;
